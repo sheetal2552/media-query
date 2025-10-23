@@ -328,6 +328,4 @@ I'd love to contribute in open source projects, and love to see people contribut
 
 # License
 
-Licensed under the MIT License, Copyright © 2017 [Mohammad Rajabifard](https://github.com/morajabi).
-
 See [LICENSE](https://github.com/morajabi/styled-media-query/blob/master/LICENSE) for more information.
